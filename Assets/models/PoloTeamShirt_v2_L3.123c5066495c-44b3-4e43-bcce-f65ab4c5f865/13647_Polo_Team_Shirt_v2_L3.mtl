@@ -1,0 +1,23 @@
+# Blender MTL File: 'None'
+# Material Count: 2
+
+newmtl 13647PoloTeamShirt_button
+Ns 49.000007
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.585000 0.585000 0.585000
+Ke 0.0 0.0 0.0
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl 13647PoloTeamShirt_cloth
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.045000 0.045000 0.045000
+Ke 0.0 0.0 0.0
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd 13647PoloTeamShirt_cloth_diffuse.jpg

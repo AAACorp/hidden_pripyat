@@ -1,0 +1,24 @@
+# Blender MTL File: 'None'
+# Material Count: 2
+
+newmtl 10308_Metal_Fframe_Reading_Glasses
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.662700 0.662700 0.662700
+Ks 0.000000 0.000000 0.000000
+Ke 0.0 0.0 0.0
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd 10308_Metal_Frame_Reading_Glasses_V1_Diffuse.jpg
+
+newmtl 10308_Metal_Fframe_Reading_Glasses_Rim
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.662700 0.662700 0.662700
+Ks 0.000000 0.000000 0.000000
+Ke 0.0 0.0 0.0
+Ni 1.500000
+d 0.500000
+illum 1
+map_Kd 10308_Metal_Frame_Reading_Glasses_V1_Diffuse.jpg
